@@ -1,0 +1,43 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.codex-log/
+
+# Credentials, local settings, and generated state are never release inputs.
+.env
+.env.*
+!.env.example
+!.env.template
+secrets/
+.secrets/
+credentials*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.log
+cookies*.txt
+cookies*.json
+storage-state*.json
+browser-profile*/
+.netlify/
+.vercel/
+.idea/
+.vscode/
+/.codex/config.toml
+/.codex/*.local.*
+
+# Real research data is local by default.
+/incoming links/
+/materials used/
+/pdfs/
+/transcripts/
+/videos to transcribe/
+
+# The release-reviewed case study under examples/ remains tracked.

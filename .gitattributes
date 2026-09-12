@@ -1,0 +1,3 @@
+# Preserve reviewed report bytes and avoid treating PDF syntax as source text.
+*.pdf binary
+*.png binary

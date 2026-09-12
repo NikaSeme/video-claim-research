@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Claim Research"
+  short_description: "Research claims from video links"
+  default_prompt: "Use $video-claim-research to process this video link into a concise claim-research PDF."

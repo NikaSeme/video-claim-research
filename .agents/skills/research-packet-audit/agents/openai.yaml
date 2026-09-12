@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Packet Audit"
+  short_description: "Audit video research packets"
+  default_prompt: "Use $research-packet-audit to check this video research packet before final delivery."

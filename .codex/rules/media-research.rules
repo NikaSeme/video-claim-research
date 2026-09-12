@@ -1,0 +1,66 @@
+# These project rules are for future Codex runs after the project .codex layer is trusted.
+
+prefix_rule(
+    pattern = ["rm", "-rf"],
+    decision = "forbidden",
+    justification = "Do not delete research packets or media artifacts with recursive force; archive or ask the user instead.",
+    match = [
+        "rm -rf pdfs",
+        "rm -rf materials used/topics/example",
+    ],
+    not_match = [
+        "rm file.tmp",
+    ],
+)
+
+prefix_rule(
+    pattern = ["git", "reset", "--hard"],
+    decision = "forbidden",
+    justification = "Do not destroy user or research worktree changes while maintaining evidence packets.",
+    match = [
+        "git reset --hard",
+        "git reset --hard HEAD",
+    ],
+    not_match = [
+        "git reset --mixed HEAD",
+    ],
+)
+
+prefix_rule(
+    pattern = ["yt-dlp"],
+    decision = "prompt",
+    justification = "External media downloads can require authorization, rights, or platform-specific limits.",
+    match = [
+        "yt-dlp https://www.instagram.com/reel/example/",
+        "yt-dlp --cookies-from-browser chrome https://example.com/video",
+    ],
+)
+
+prefix_rule(
+    pattern = ["gallery-dl"],
+    decision = "prompt",
+    justification = "Gallery/social downloads can require authorization, rights, or platform-specific limits.",
+    match = [
+        "gallery-dl https://www.instagram.com/p/example/",
+    ],
+)
+
+prefix_rule(
+    pattern = ["instaloader"],
+    decision = "prompt",
+    justification = "Instagram-specific downloads are unofficial and must be user-authorized and lawful.",
+    match = [
+        "instaloader -- -example",
+        "instaloader https://www.instagram.com/p/example/",
+    ],
+)
+
+prefix_rule(
+    pattern = ["opencli"],
+    decision = "prompt",
+    justification = "OpenCLI can reuse an existing logged-in browser session; confirm the user-authorized platform and read-only purpose first.",
+    match = [
+        "opencli instagram user example -f yaml",
+        "opencli reddit search example -f yaml",
+    ],
+)

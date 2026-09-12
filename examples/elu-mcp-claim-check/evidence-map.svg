@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="550" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 550" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="550"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-550)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="720" height="550" rx="20" ry="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,96%,98%); fill-rule: evenodd;"/>
+			<text x="32" y="508" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,1016) scale(1,-1)">What the evidence can establish</text>
+			<text x="32" y="480" style="font-family: Helvetica; font-size: 12px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,960) scale(1,-1)">Original evidence map / no measured results are shown</text>
+			<rect x="32" y="318" width="656" height="96" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="54" y="387" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,774) scale(1,-1)">DOCUMENTED</text>
+			<text x="54" y="360" style="font-family: Helvetica-Bold; font-size: 19px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,720) scale(1,-1)">Connections + stated capabilities</text>
+			<text x="54" y="336" style="font-family: Helvetica; font-size: 13px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,672) scale(1,-1)">MCP documentation and ELU's own descriptions.</text>
+			<rect x="32" y="206" width="656" height="96" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="54" y="275" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,550) scale(1,-1)">PLAUSIBLE</text>
+			<text x="54" y="248" style="font-family: Helvetica-Bold; font-size: 19px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,496) scale(1,-1)">Assisted analysis + code handoff</text>
+			<text x="54" y="224" style="font-family: Helvetica; font-size: 13px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,448) scale(1,-1)">An interpretation supported by the integration premise.</text>
+			<rect x="32" y="94" width="656" height="96" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="54" y="163" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,326) scale(1,-1)">NOT DEMONSTRATED</text>
+			<text x="54" y="136" style="font-family: Helvetica-Bold; font-size: 19px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,272) scale(1,-1)">Dependable autonomous improvement</text>
+			<text x="54" y="112" style="font-family: Helvetica; font-size: 13px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,224) scale(1,-1)">No independent deployment test or before/after results.</text>
+			<text x="32" y="46" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,92) scale(1,-1)">Confidence: medium for this wording assessment.</text>
+			<text x="32" y="23" style="font-family: Helvetica; font-size: 13px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,46) scale(1,-1)">This is not a certification of product performance or safety.</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="550" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 550" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="550"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-550)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="720" height="550" rx="20" ry="20" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,96%,98%); fill-rule: evenodd;"/>
+			<text x="32" y="510" style="font-family: Helvetica-Bold; font-size: 23px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,1020) scale(1,-1)">A connection is one part of the workflow.</text>
+			<text x="32" y="483" style="font-family: Helvetica; font-size: 12px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,966) scale(1,-1)">Original explanatory diagram / not captured from the reel</text>
+			<rect x="32" y="372" width="656" height="72" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52" y="401" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,802) scale(1,-1)">01</text>
+			<text x="110" y="415" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,830) scale(1,-1)">Usage data</text>
+			<text x="110" y="392" style="font-family: Helvetica; font-size: 14px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,784) scale(1,-1)">Relevant events and observations</text>
+			<path d="M 68,370 L 68,357 Z" style="stroke: rgb(13%,39%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="64 360, 68 355, 72 360" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,39%,52%); fill-rule: evenodd;"/>
+			<rect x="32" y="282" width="656" height="72" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52" y="311" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,622) scale(1,-1)">02</text>
+			<text x="110" y="325" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,650) scale(1,-1)">AI analysis via MCP</text>
+			<text x="110" y="302" style="font-family: Helvetica; font-size: 14px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,604) scale(1,-1)">Possible friction points and interpretations</text>
+			<path d="M 68,280 L 68,267 Z" style="stroke: rgb(13%,39%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="64 270, 68 265, 72 270" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,39%,52%); fill-rule: evenodd;"/>
+			<rect x="32" y="192" width="656" height="72" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52" y="221" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,442) scale(1,-1)">03</text>
+			<text x="110" y="235" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,470) scale(1,-1)">Proposed change</text>
+			<text x="110" y="212" style="font-family: Helvetica; font-size: 14px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,424) scale(1,-1)">A recommendation or coding task</text>
+			<path d="M 68,190 L 68,177 Z" style="stroke: rgb(13%,39%,52%); stroke-linecap: butt; stroke-width: 1.5;"/>
+			<polygon points="64 180, 68 175, 72 180" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,39%,52%); fill-rule: evenodd;"/>
+			<rect x="32" y="102" width="656" height="72" rx="12" ry="12" style="stroke: rgb(74%,84%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="52" y="131" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(13%,39%,52%); stroke:none;" transform="translate(0,262) scale(1,-1)">04</text>
+			<text x="110" y="145" style="font-family: Helvetica-Bold; font-size: 18px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,290) scale(1,-1)">Human review + tests</text>
+			<text x="110" y="122" style="font-family: Helvetica; font-size: 14px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,244) scale(1,-1)">Check correctness before approving a release</text>
+			<text x="32" y="57" style="font-family: Helvetica; font-size: 13px;fill: rgb(26%,37%,43%); stroke:none;" transform="translate(0,114) scale(1,-1)">A suggested review path, not a tested ELU deployment.</text>
+			<text x="32" y="32" style="font-family: Helvetica-Bold; font-size: 15px;fill: rgb(6%,17%,23%); stroke:none;" transform="translate(0,64) scale(1,-1)">Reliable unattended self-improvement is not established.</text>
+		</g>
+	</g>
+</svg>

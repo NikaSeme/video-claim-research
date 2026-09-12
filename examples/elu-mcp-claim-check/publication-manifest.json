@@ -1,0 +1,52 @@
+{
+  "policy_version": 1,
+  "review_status": "reviewed",
+  "reviewer": "Codex: address-only author review of page 4; pages 1-3 and diagrams unchanged by hash from 2026-09-10; not independent legal clearance",
+  "reviewed_at": "2026-09-12",
+  "original_visuals_only": true,
+  "claim_focused": true,
+  "assets": [
+    {
+      "path": "report.pdf",
+      "sha256": "2ec7b2130afdb96ea26b5f3b3f85be0a4761a2e56d7f781b32e7fb96407c4f4f",
+      "kind": "original_report",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "workflow-diagram.svg",
+      "sha256": "0cb01c1981629a193176fe5aa98e36217c1bf88926ae018d8854adff30f5ddcb",
+      "kind": "original_diagram",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "evidence-map.svg",
+      "sha256": "17356ffaf0cb0f98041bd4c4cf63e1d71e4b9882c3bc8e0939646879455f3eab",
+      "kind": "original_diagram",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "page-1.png",
+      "sha256": "de0b9d84346685f059363c7c82380b1dc0ebf88a596f0cc8c1d37d66aba96898",
+      "kind": "report_render",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "page-2.png",
+      "sha256": "c50ab94d8ce9fbfa9bdefd954dc208085d20fe34dc074a6ec81a735391ccf017",
+      "kind": "report_render",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "page-3.png",
+      "sha256": "8f666bb547f018382cd7e9d9aca11318cbc6059ea39577379531b3fb445300a2",
+      "kind": "report_render",
+      "source": "scripts/build_public_example.py"
+    },
+    {
+      "path": "page-4.png",
+      "sha256": "43dba41d68c8ebcf68c7136795f8a056dbc478a2a70ac9c4a296135faa13b2c9",
+      "kind": "report_render",
+      "source": "scripts/build_public_example.py"
+    }
+  ]
+}
