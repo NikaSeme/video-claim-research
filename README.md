@@ -68,4 +68,4 @@ See `docs/WORKFLOW.md` for the sequence and `docs/OPEN_SOURCE_BOUNDARY.md` for r
 
 ## License
 
-Original code and documentation are MIT licensed. External tools and third-party media retain their own licenses and rights. See `THIRD_PARTY_NOTICES.md`.
+Original code, documentation, report text, and explanatory diagrams are MIT licensed to the extent the author owns those rights. External works retain their own terms. See the [licence scope](docs/LICENSE_SCOPE.md) and [third-party notices](THIRD_PARTY_NOTICES.md).
